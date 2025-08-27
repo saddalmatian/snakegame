@@ -14,7 +14,7 @@ import base64
 import struct
 
 # HTTP server configuration
-HTTP_PORT = 666
+HTTP_PORT = 8000
 
 # Game constants
 BOARD_WIDTH = 1000
